@@ -5,3 +5,8 @@ This specialization introduces learners to the comprehensive and flexible infras
 This class is intended for Cloud Solutions Architects, DevOps Engineers or individuals using Compute Engine.
 
 Note: This Specialization used to be called Architecting with Google Cloud Platform. As the Specialization is now focused on Compute Engine as the computing platform, we have renamed it to Architecting with Google Compute Engine. If you are looking to learn more about App Engine, Cloud Functions and Google Kubernetes Engine, which are services previously covered in the Elastic Cloud Infrastructure: Containers and Services course of this specialization, please refer to the Developing Applications with Google Cloud Platform Specialization and the Architecting with Kubernetes Engine Specialization.
+
+## Applied Learning Project
+This specialization incorporates hands-on labs using our Qwiklabs platform.
+
+These hands on components will let you apply the skills you learn in the video lectures. Projects will incorporate topics such as Google Cloud Platform products, which are used and configured within Qwiklabs. You can expect to gain practical hands-on experience with the concepts explained throughout the modules.
