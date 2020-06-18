@@ -13,5 +13,5 @@ These hands on components will let you apply the skills you learn in the video l
 
 ## Verify my Certificates
 1-[Google Cloud Platform Fundamentals Core Infrastructure](https://www.coursera.org/account/accomplishments/verify/TUAQ68NDZRXU)<br>
-2-[Essential Google Cloud Infrastructure Foundation](https://www.coursera.org/account/accomplishments/verify/7N952JHSZWT7)
+2-[Essential Google Cloud Infrastructure Foundation](https://www.coursera.org/account/accomplishments/verify/7N952JHSZWT7)<br>
 3-[Essential Google Cloud Infrastructure Core Services](https://www.coursera.org/account/accomplishments/verify/ELFGCF2SV24U)
