@@ -12,6 +12,6 @@ This specialization incorporates hands-on labs using our Qwiklabs platform.
 These hands on components will let you apply the skills you learn in the video lectures. Projects will incorporate topics such as Google Cloud Platform products, which are used and configured within Qwiklabs. You can expect to gain practical hands-on experience with the concepts explained throughout the modules.
 
 ## Verify my Certificates
-1-[Google Cloud Platform Fundamentals Core Infrastructure](https://www.coursera.org/account/accomplishments/verify/TUAQ68NDZRXU)
+1-[Google Cloud Platform Fundamentals Core Infrastructure](https://www.coursera.org/account/accomplishments/verify/TUAQ68NDZRXU)<br>
 2-[Essential Google Cloud Infrastructure Foundation](https://www.coursera.org/account/accomplishments/verify/7N952JHSZWT7)
 3-[Essential Google Cloud Infrastructure Core Services](https://www.coursera.org/account/accomplishments/verify/ELFGCF2SV24U)
