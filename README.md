@@ -10,3 +10,7 @@ Note: This Specialization used to be called Architecting with Google Cloud Platf
 This specialization incorporates hands-on labs using our Qwiklabs platform.
 
 These hands on components will let you apply the skills you learn in the video lectures. Projects will incorporate topics such as Google Cloud Platform products, which are used and configured within Qwiklabs. You can expect to gain practical hands-on experience with the concepts explained throughout the modules.
+
+## Verify my Certificates
+1-Google Cloud Platform Fundamentals Core Infrastructure
+[GitHub Pages](https://pages.github.com/)
