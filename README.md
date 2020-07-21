@@ -15,5 +15,5 @@ These hands on components will let you apply the skills you learn in the video l
 1-[Google Cloud Platform Fundamentals Core Infrastructure](https://www.coursera.org/account/accomplishments/verify/TUAQ68NDZRXU)<br>
 2-[Essential Google Cloud Infrastructure Foundation](https://www.coursera.org/account/accomplishments/verify/7N952JHSZWT7)<br>
 3-[Essential Google Cloud Infrastructure Core Services](https://www.coursera.org/account/accomplishments/verify/ELFGCF2SV24U)<br>
-4-[Elastic Google Cloud Infrastructure Scaling and Automation](https://www.coursera.org/account/accomplishments/verify/HWTQ9PMQ9TAP)
+4-[Elastic Google Cloud Infrastructure Scaling and Automation](https://www.coursera.org/account/accomplishments/verify/HWTQ9PMQ9TAP)<br>
 5-[Reliable Google Cloud Infrastructure: Design and Process](https://www.coursera.org/account/accomplishments/verify/N9TD7Q77HXZZ)
